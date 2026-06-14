@@ -1,6 +1,7 @@
 # topoctave-M083-OM27
 
 Building on this amazing work to adapt for Omnichord OM-27's M083 tone generator.
+The RP2350 can indeed output a 12-tone chromatic scale as 12 state machines.
 
 M082/A-M083/A-M086/A
 TONE GENERATORS
